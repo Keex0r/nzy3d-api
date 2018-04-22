@@ -177,6 +177,7 @@
     <Compile Include="Plot3D\Primitives\AbstractWireframeable.cs" />
     <Compile Include="Plot3D\Primitives\Axes\AxeBase.cs" />
     <Compile Include="Plot3D\Primitives\CompileableComposite.cs" />
+    <Compile Include="Plot3D\Primitives\GroupedLineScatter.cs" />
     <Compile Include="Plot3D\Primitives\ISortableDraw.cs" />
     <Compile Include="Plot3D\Primitives\Axes\AxeBox.cs" />
     <Compile Include="Plot3D\Primitives\Axes\IAxe.cs" />
